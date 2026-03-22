@@ -27,7 +27,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/您的用户名/您的仓库名.git
+git clone https://github.com/Arrebolveil/AudiobookPlayer.git
 cd AudiobookPlayer
 
 # 2. 安装前端依赖
